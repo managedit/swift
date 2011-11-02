@@ -1,6 +1,6 @@
-swift (1.4.3-0mit1) oneiric; urgency=low
+swift (1.4.3+20111102-0mit1) oneiric; urgency=low
 
-  * Bumping version for PPA GPG check..
+  * New upstream version (d415db9af18749356123c43f1f9754d309a60505)
 
  -- Kiall Mac Innes <kiall@managedit.ie>  Mon, 24 Oct 2011 22:29:35 +0100
 
