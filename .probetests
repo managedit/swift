@@ -1,3 +1,0 @@
-#!/bin/bash
-
-nosetests test/probe --exe

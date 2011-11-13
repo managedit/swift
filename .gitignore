@@ -1,9 +1,0 @@
-*.py[co]
-*.sw?
-doc/build/*
-dist
-ChangeLog
-.coverage
-swift.egg-info
-.DS_Store
-.pc
